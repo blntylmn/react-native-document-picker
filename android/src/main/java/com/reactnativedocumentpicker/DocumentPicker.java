@@ -1,4 +1,4 @@
-package com.reactnativedocumentpicker;
+package io.github.elyx0.reactnativedocumentpicker;
 
 import android.app.Activity;
 import android.content.ContentResolver;
